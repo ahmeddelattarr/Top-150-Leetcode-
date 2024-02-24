@@ -1,8 +1,9 @@
 class Solution:
-    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
-        for i in range( n):
-            nums1[i+m]=nums2[i]
-        nums1.sort()
-            
-        return nums1
-     
+    def mergeAlternately(self, word1: str, word2: str) -> str:
+        word = ""
+        for i in range(max(len(word1), len(word2))):
+            if i < len(word1):
+                word += word1[i]
+            if i < len(word2):
+                word += word2[i]
+        return word
