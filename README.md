@@ -1,8 +1,8 @@
 
 
-# Top-150-Leetcode Archive
+# Leetcode Archive
 
-Welcome to my personal repository! This is an archive where I've compiled a list of the top 150 LeetCode problems. It serves as a reference to track my progress, showcasing a variety of topics and difficulty levels commonly encountered in coding interviews.
+Welcome to my personal repository! This is an archive where I've compiled a list of the LeetCode problems. It serves as a reference to track my progress, showcasing a variety of topics and difficulty levels commonly encountered in coding interviews.
 
 ## Usage
 
